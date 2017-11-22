@@ -9,7 +9,7 @@ public class ContaPoupanca extends Conta
     }
 
     public void cobrarTarifa(double valor){
-      saldo -= valor; //Subtrai e atribui ao saldo
+      saldo -= valor; //Sub6trai e atribui ao saldo
     }
 
 }
